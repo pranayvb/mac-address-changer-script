@@ -1,5 +1,5 @@
 # mac-address-changer-script
-it changes the mac address in kali linux 
+it changes the mac address in kali linux.
 
 USAGE :
 
