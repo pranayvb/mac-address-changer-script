@@ -8,3 +8,4 @@ to run it in terminal go to the directory where u saved it :
 -cd 
 -python3 mac_address_changer_script -h  
  
+ 
